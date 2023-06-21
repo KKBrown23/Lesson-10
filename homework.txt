@@ -1,0 +1,7 @@
+1. Change the content   
+    a. changing the text for the achivements section
+    b. add new icons
+
+2. Change the size of text in the achivements cards
+3. Change the text color in the achivements cards to dark gray
+4. Add proper spacing to the elements of the cards under p, under author`s name
